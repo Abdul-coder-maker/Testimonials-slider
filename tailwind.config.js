@@ -13,7 +13,9 @@ module.exports = {
         twitter: "#1da1f2",
       },
       spacing: {
+        450: "450px",
         600: "600px",
+        90: "90vw",
       },
     },
   },
